@@ -1,3 +1,3 @@
-CREATE TABLE name (
+CREATE TABLE bears (
 
 );
